@@ -57,4 +57,4 @@ matplotlib.rcParams['figure.figsize'] = (20.0, 10.0)
 ```
 6、最终结果<br>
 ---------
-![]()
+![](https://github.com/fanzhihai/Text-Segmentation/raw/master/house_cloud.png)
